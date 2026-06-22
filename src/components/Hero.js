@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const Hero = () => {
   const socialLinks = [
-    { href: 'https://github.com/armanhossain-atunu', icon: 'fab fa-github', hoverColor: 'hover:bg-primary' },
+    { href: 'https://github.com/armanhossainatunu', icon: 'fab fa-github', hoverColor: 'hover:bg-primary' },
     { href: 'https://www.linkedin.com/in/armanhossainatunu', icon: 'fab fa-linkedin-in', hoverColor: 'hover:bg-blue-600' },
     { href: 'https://www.instagram.com/armanhossainatunu', icon: 'fab fa-instagram', hoverColor: 'hover:bg-pink-500' },
     { href: 'mailto:armanhossainatunu@gmail.com?subject=Hello%20from%20Portfolio', icon: 'fas fa-envelope', hoverColor: 'hover:bg-red-500' },

@@ -4,7 +4,7 @@ import { FaXTwitter } from 'react-icons/fa6';
 const SocialSidebar = () => {
   const socialLinks = [
     { href: 'https://www.linkedin.com/in/armanhossainatunu', icon: 'fab fa-linkedin-in', hoverColor: 'hover:bg-[#0077b5]', title: 'LinkedIn', isReactIcon: false },
-    { href: 'https://github.com/armanhossain-atunu', icon: 'fab fa-github', hoverColor: 'hover:bg-[#333]', title: 'Github', isReactIcon: false },
+    { href: 'https://github.com/armanhossainatunu', icon: 'fab fa-github', hoverColor: 'hover:bg-[#333]', title: 'Github', isReactIcon: false },
     { href: 'https://www.instagram.com/armanhossainatunu', icon: 'fab fa-instagram', hoverColor: 'hover:bg-[#E1306C]', title: 'Instagram', isReactIcon: false },
     { href: 'https://x.com/arman_atunu', icon: FaXTwitter, hoverColor: 'hover:bg-black', title: 'X (Twitter)', isReactIcon: true },
   ];

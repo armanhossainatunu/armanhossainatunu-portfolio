@@ -127,7 +127,7 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { href: 'https://github.com/armanhossain-atunu', icon: 'fab fa-github', hoverColor: 'hover:bg-black', isReactIcon: false },
+    { href: 'https://github.com/armanhossainatunu', icon: 'fab fa-github', hoverColor: 'hover:bg-black', isReactIcon: false },
     { href: 'https://www.linkedin.com/in/armanhossainatunu', icon: 'fab fa-linkedin-in', hoverColor: 'hover:bg-[#0077b5]', isReactIcon: false },
     { href: 'https://www.instagram.com/armanhossainatunu', icon: 'fab fa-instagram', hoverColor: 'hover:bg-[#E1306C]', isReactIcon: false },
     { href: 'https://x.com/arman_atunu', icon: FaXTwitter, hoverColor: 'hover:bg-black', isReactIcon: true },
